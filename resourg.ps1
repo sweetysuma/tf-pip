@@ -1,0 +1,1 @@
+New-Item azureresurcegroup -Name "rgtst" -Loctaion "west us"
