@@ -1,1 +1,1 @@
-New-azresurcegroup -Name "buildreleasepipeline" -Loctaion "west us"
+New-azresourcegroup -Name "buildreleasepipeline" -Loctaion "west us"
