@@ -1,1 +1,1 @@
-New-Item azureresurcegroup -Name "rgtst" -Loctaion "west us"
+New-Item azresurcegroup -Name "rgtst" -Loctaion "west us"
